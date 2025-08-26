@@ -1,7 +1,7 @@
 {
   "name": "qa-week-5",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto de pruebas automatizadas",
   "main": "index.js",
   "scripts": {
     "test": "vitest",
@@ -11,3 +11,4 @@
   "devDependencies": {
     "vitest": "^1.0.0"
   }
+}
